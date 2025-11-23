@@ -14,7 +14,7 @@ function App() {
       <Hero />
       <About/>
       <Services/>
-      <Doctors/>
+      
       <Contacts/>
       <Footer/>
    
