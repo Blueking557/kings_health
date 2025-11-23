@@ -137,7 +137,7 @@ export default function Footer() {
                   <div>
                     <p className="text-blue-200 leading-relaxed">
                       123 Health Boulevard, Medical District<br />
-                      GRA, Benin City, Edo State<br />
+                      Awka, Anambra State<br />
                       Nigeria
                     </p>
                   </div>
@@ -146,7 +146,7 @@ export default function Footer() {
                 <div className="flex items-start gap-3">
                   <Phone className="text-blue-400 flex-shrink-0 mt-1" size={20} />
                   <div>
-                    <p className="text-white font-semibold">+234 (0) 123 456 7890</p>
+                    <p className="text-white font-semibold">+234 (0) 810 517 2640</p>
                     <p className="text-blue-200 text-sm">Mon - Sat: 8AM - 6PM</p>
                   </div>
                 </div>

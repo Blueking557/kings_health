@@ -54,7 +54,7 @@ export default function Navbar() {
             <div className="flex gap-4 sm:gap-8">
               <div className="flex items-center gap-2">
                 <Phone size={16} className="text-blue-300" />
-                <span className="font-medium">+234 (0) 123 456 7890</span>
+                <span className="font-medium">+234 (0) 810 517 2640</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail size={16} className="text-blue-300" />
@@ -193,5 +193,3 @@ export default function Navbar() {
     </>
   );
 }
-
-
